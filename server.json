@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.Salimyou91/novarithm-agent-services-mcp",
+  "title": "Novarithm Agent Services",
+  "description": "Pay-per-call tools for AI agents: shopping safety, sanctions, email, FX, SEO, USDC (x402 on Base).",
+  "version": "0.1.0",
+  "websiteUrl": "https://gogeta2-u35175.vm.elestio.app/agents/",
+  "repository": {
+    "url": "https://github.com/Salimyou91/novarithm-agent-services-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://gogeta2-u35175.vm.elestio.app/agents/mcp"
+    }
+  ]
+}
