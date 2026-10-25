@@ -10,6 +10,7 @@ Start with **Agent Check**: inspect an x402 quote, an MCP handshake, or an A2A c
 - [MCP manifest](https://gogeta2-u35175.vm.elestio.app/agents/mcp.json)
 - [A2A card](https://gogeta2-u35175.vm.elestio.app/agents/.well-known/agent-card.json)
 - [Health](https://gogeta2-u35175.vm.elestio.app/agents/health)
+- [PayAPI Market listing](https://payapi.market/agent/get?id=novarithm-trust-commerce-checks)
 
 ## Connect and inspect for free
 
